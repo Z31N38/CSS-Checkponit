@@ -1,0 +1,39 @@
+.container{
+    font-family:roboto;
+   
+}
+article{
+    z-index: 1;
+}
+
+.index-module{
+    position: sticky; 
+    top: 0;
+    
+}
+ul{
+    
+    display: flex;
+}
+li{
+   margin: 15px;
+   list-style: none;
+}
+.navbar{
+    background-color: navy;
+    justify-content: space-between;
+  
+    
+    
+}
+#arti1{
+    background-color: rgb(130, 54, 202);
+    color:blanchedalmond;
+}
+#sessy{
+    display:inline;
+
+}
+.body{
+    background-color: rgba(169, 70, 199, 0.808);
+}
